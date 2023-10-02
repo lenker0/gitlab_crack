@@ -8,3 +8,4 @@ python gitlab_crack.py
 sh deploy_gitlabee.sh
 ```
 
+JIRA: https://github.com/esnrhm/cracked-jira
