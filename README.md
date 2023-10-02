@@ -5,9 +5,6 @@ python gitlab_crack.py
 ```
 ## Развертывание gitlab-a (2-3 минуты)
 ```
-export GITLAB_HOME=/gitlab
-rm -rf $GITLAB_HOME
-mkdir -p $GITLAB_HOME
 sh deploy_gitlabee.sh
 ```
 ## Пароль от учетки root'a
