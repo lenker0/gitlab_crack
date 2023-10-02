@@ -7,8 +7,4 @@ python gitlab_crack.py
 ```
 sh deploy_gitlabee.sh
 ```
-## Пароль от учетки root'a
-```
-cat $GITLAB_HOME/config/initial_root_password
-```
 
